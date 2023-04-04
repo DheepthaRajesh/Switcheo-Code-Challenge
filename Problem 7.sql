@@ -1,3 +1,5 @@
+/* SQL Query */
+
 /* Aim : Write an SQL query that returns the the list of addresses which has recently made a trade, and wallet has at least $500 (total balance) in it.  */ 
 
 /* Recent trade => block_height > 730000 */
