@@ -2,6 +2,10 @@
 
 //Output - return summation to n === 1+2+3+...+n
 
+// Assumptions :
+
+    // Since the summation begins from 1 as shown in the example, n cannot be lesser than 1 (therefore n is a natural number)
+
 // First implementation:
 // Use FOR LOOP to loop through from 1 to n and sum the values
 
