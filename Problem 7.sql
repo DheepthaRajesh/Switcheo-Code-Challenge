@@ -25,3 +25,6 @@ HAVING SUM(
         WHEN 'tmz' THEN b.amount * 0.003
     END 
 ) >= 500;
+
+
+
